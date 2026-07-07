@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fancy-carpets-tie.loca.lt/sitemap.xml
